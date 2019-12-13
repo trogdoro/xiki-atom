@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle xiki",
+        "command": "xiki:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "xiki",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "xiki:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

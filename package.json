@@ -1,0 +1,18 @@
+{
+  "name": "xiki",
+  "main": "./lib/xiki",
+  "version": "0.0.0",
+  "description": "Search code snippets right from your code comments!",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "xiki:toggle"
+  },
+  "repository": "https://github.com/trogdoro/xiki-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
